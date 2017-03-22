@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DRUSdomaci", "DRUSdomaci\DRUSdomaci.csproj", "{D467B206-9277-4EC0-94AA-3E0162C05945}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vez1", "..\vez1\vez1\vez1.csproj", "{7B3EEB96-B712-42D5-B229-76CF31371B48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D467B206-9277-4EC0-94AA-3E0162C05945}.Debug|x86.ActiveCfg = Debug|x86
+		{D467B206-9277-4EC0-94AA-3E0162C05945}.Debug|x86.Build.0 = Debug|x86
+		{D467B206-9277-4EC0-94AA-3E0162C05945}.Release|x86.ActiveCfg = Release|x86
+		{D467B206-9277-4EC0-94AA-3E0162C05945}.Release|x86.Build.0 = Release|x86
+		{7B3EEB96-B712-42D5-B229-76CF31371B48}.Debug|x86.ActiveCfg = Debug|x86
+		{7B3EEB96-B712-42D5-B229-76CF31371B48}.Debug|x86.Build.0 = Debug|x86
+		{7B3EEB96-B712-42D5-B229-76CF31371B48}.Release|x86.ActiveCfg = Release|x86
+		{7B3EEB96-B712-42D5-B229-76CF31371B48}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

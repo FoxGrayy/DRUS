@@ -1,0 +1,5 @@
+c:\users\milissa\documents\visual studio 2010\Projects\DRUSdomaci\DRUSdomaci\bin\Debug\DRUSdomaci.exe
+c:\users\milissa\documents\visual studio 2010\Projects\DRUSdomaci\DRUSdomaci\bin\Debug\DRUSdomaci.pdb
+c:\users\milissa\documents\visual studio 2010\Projects\DRUSdomaci\DRUSdomaci\obj\x86\Debug\DRUSdomaci.exe
+c:\users\milissa\documents\visual studio 2010\Projects\DRUSdomaci\DRUSdomaci\obj\x86\Debug\DRUSdomaci.pdb
+C:\Users\Milissa\Documents\Visual Studio 2010\Projects\DRUSdomaci\DRUSdomaci\obj\x86\Debug\DRUSdomaci.csprojResolveAssemblyReference.cache
